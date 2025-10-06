@@ -1,4 +1,4 @@
-> # Vulnerabilities-of-the-nightcraft.ir-server-Minecraft-server-
+> # Vulnerabilities-of-the-nightcraft.ir-(-Minecraft-server-)
 
 **------------------ nihgtcraft.ir ------------------
 
