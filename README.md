@@ -1,6 +1,6 @@
-> # Vulnerabilities-of-the-nightcraft.ir-( Minecraft-server )
+> # Vulnerabilities of the nightcraft.ir ( Minecraft-server )
 
-**------------------ nihgtcraft.ir ------------------
+------------------ nihgtcraft.ir ------------------
 
 > ( / ) The server does not have a CSP
 > ( /cgi-bin/.cobalt/alert/service.cgi ) Cobalt RaQ 4 administration CGI is vulnerable to Cross Site Scripting (XSS)
